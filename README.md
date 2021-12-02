@@ -11,7 +11,7 @@
 
 ## Sobre
 
-Primeiro site criado para fins didáticos usando HTML, CSS e BootStrap.
+Meu primeiro site criado para fins didáticos usando HTML, CSS e BootStrap.
  
 ## Tecnologias
 Neste projeto foram utilizadas essas tecnologias:
